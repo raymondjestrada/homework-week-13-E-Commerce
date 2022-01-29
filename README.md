@@ -44,6 +44,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # Installation
 💾   
+
+`npm install`
   
 `npm init`
 
@@ -64,7 +66,7 @@ Enter PW when promted
 
 `source db/schema.sql`
 
-`quit`
+Start a second terminal in the root of your project and run
 
 `npm run seed`
   
