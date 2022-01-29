@@ -85,4 +85,4 @@ For a quick example of the execution, here is a short [Video](https://drive.goog
 
 
 # Questions
-✉️ Contact me with any questions: , [GitHub]https://github.com/raymondjestrada<br />
+✉️ Contact me with any questions [GitHub](https://github.com/raymondjestrada)
