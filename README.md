@@ -74,7 +74,13 @@ Start a second terminal in the root of your project and run
 
 # Testing
 
-No testing is currently set up
+This application uses Insomnia Core as a testing method
+
+# Walkthrough Video
+
+For a quick example of the execution, here is a short video. 
+<iframe src="https://drive.google.com/file/d/1zPCMVzpph5Yn9LcLImoT3Ho72fFJVtiy/preview" width="640" height="480"></iframe>
+
 
 # Contributing
 
