@@ -1,4 +1,4 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End By: Raymond Estrada
+# E-Commerce Back End By: Raymond Estrada
 
 # Description
 
@@ -85,4 +85,5 @@ For a quick example of the execution, here is a short [Video](https://drive.goog
 
 
 # Questions
-✉️ Contact me with any questions [GitHub](https://github.com/raymondjestrada)
+
+Contact me with any questions [GitHub](https://github.com/raymondjestrada)
